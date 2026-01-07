@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Uptown Funk",
+  "base_artist": "Mark Ronson",
+  "createdAt": "2026-01-07T12:42:07.919763Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Uptown Funk",
+      "artist": "Fleur East",
+      "has_synced": true,
+      "path": "select/01_Uptown_Funk_Fleur_East.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Uptown Funk (X Factor Performance)",
+      "artist": "Fleur East",
+      "has_synced": true,
+      "path": "select/02_Uptown_Funk_(X_Factor_Performance)_Fleur_East.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Uptown Funk (Live X Factor Performance)",
+      "artist": "Fleur East",
+      "has_synced": true,
+      "path": "select/03_Uptown_Funk_(Live_X_Factor_Performance)_Fleur_East.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Uptown Funk (Mix Version)",
+      "artist": "Mark Ronson",
+      "has_synced": true,
+      "path": "select/04_Uptown_Funk_(Mix_Version)_Mark_Ronson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson",
+      "has_synced": true,
+      "path": "select/05_Uptown_Funk_Mark_Ronson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Uptown Funk (feat. Bruno Mars)",
+      "artist": "Mark Ronson",
+      "has_synced": true,
+      "path": "select/06_Uptown_Funk_(feat._Bruno_Mars)_Mark_Ronson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Uptown Funk (feat. Bruno Mars) [Dave Audé Remix]",
+      "artist": "Mark Ronson & Bruno Mars",
+      "has_synced": true,
+      "path": "select/07_Uptown_Funk_(feat._Bruno_Mars)_[Dave_Audé_Remix]_Mark_Ronson_&_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Uptown Funk (feat. Bruno Mars)",
+      "artist": "Mark Ronson, Bruno Mars",
+      "has_synced": true,
+      "path": "select/08_Uptown_Funk_(feat._Bruno_Mars)_Mark_Ronson,_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Uptown Funk (feat. Bruno Mars)",
+      "artist": "Mark Ronson",
+      "has_synced": true,
+      "path": "select/09_Uptown_Funk_(feat._Bruno_Mars)_Mark_Ronson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson Feat: Bruno Mars",
+      "has_synced": true,
+      "path": "select/10_Uptown_Funk_Mark_Ronson_Feat__Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Uptown Funk (Mixed)",
+      "artist": "Mark Ronson & Bruno Mars",
+      "has_synced": true,
+      "path": "select/11_Uptown_Funk_(Mixed)_Mark_Ronson_&_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson, Bruno Mars",
+      "has_synced": true,
+      "path": "select/12_Uptown_Funk_Mark_Ronson,_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson & Bruno Mars",
+      "has_synced": true,
+      "path": "select/13_Uptown_Funk_Mark_Ronson_&_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson feat. Bruno Mars",
+      "has_synced": true,
+      "path": "select/14_Uptown_Funk_Mark_Ronson_feat._Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Uptown Funk (Feat. Bruno Mars)",
+      "artist": "Mark Ronson",
+      "has_synced": true,
+      "path": "select/15_Uptown_Funk_(Feat._Bruno_Mars)_Mark_Ronson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Uptown Funk (feat. Bruno Mars) - BB Disco Dub Mix",
+      "artist": "Mark Ronson",
+      "has_synced": false,
+      "path": "select/16_Uptown_Funk_(feat._Bruno_Mars)_-_BB_Disco_Dub_Mix_Mark_Ronson.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Uptown Funk (Feat. Bruno Mars) (BB Disco Dub Mix) (Bonus Track)",
+      "artist": "Mark Ronson",
+      "has_synced": false,
+      "path": "select/17_Uptown_Funk_(Feat._Bruno_Mars)_(BB_Disco_Dub_Mix)_(Bonus_Track)_Mark_Ronson.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Uptown Funk (Lucas Divino Unofficial Remix) (Mixed)",
+      "artist": "Bruno Mars & Mark Ronson",
+      "has_synced": true,
+      "path": "select/18_Uptown_Funk_(Lucas_Divino_Unofficial_Remix)_(Mixed)_Bruno_Mars_&_Mark_Ronson.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Uptown Funk",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/19_Uptown_Funk_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Uptown Funk!",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/20_Uptown_Funk!_Bruno_Mars.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson",
+      "has_synced": false,
+      "path": "select/pl_01_Uptown_Funk_Mark_Ronson.txt"
+    }
+  ]
+}
